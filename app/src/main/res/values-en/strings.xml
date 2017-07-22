@@ -1,0 +1,37 @@
+<resources>
+    <string name="action_buscar">Search</string>
+    <string name="settings">Settings</string>
+    <string name="app_name">TripIn</string>
+    <string name="action_lista">List</string>
+    <string name="calification">Calific Us!</string>
+    <string name="cancel">Cancel</string>
+    <string name="categories">Directory</string>
+    <string name="comment">Comment</string>
+    <string name="enterprise">Enterprises</string>
+    <string name="message_load">Please Wait, Information are loading.</string>
+    <string name="no_internet">No have internet connection.</string>
+    <string name="save">Load</string>
+    <string name="stores">Map</string>
+    <string name="subcategories">Categories</string>
+    <string name="tripit">Trip It</string>
+    <string name="visit_us">VISIT US!</string>
+    <string name="find_us">FIND US!</string>
+    <string name="direction">Direction</string>
+    <string name="contact">CONTACT US!</string>
+    <string name="follow_us">FOLLOW US!</string>
+    <string name="gallerys">GALLERY!</string>
+    <string name="no_select">--Select a city--</string>
+    <string name="select_country">Cities: </string>
+    <string name="config">Configuration</string>
+    <string name="no_gps">Ubication not avalaible, activate to show your address</string>
+    <string name="Develop">Aplication develop by Solutec Systems</string>
+    <string name="spanish">Spanish</string>
+    <string name="english">English</string>
+    <string name="Idiom">--Not Select--</string>
+    <string name="lic">Free License</string>
+    <string name="position">Your position</string>
+    <string name="route">Can not be traced the route at this time, check and try again</string>
+    <string name="name">Name:</string>
+    <string name="direc">Address:</string>
+    <string name="visita_nuestra_web">Visit our web</string>
+</resources>

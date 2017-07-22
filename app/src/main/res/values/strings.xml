@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_buscar">Buscar</string>
+    <string name="settings">Ajustes</string>
+    <string name="app_name">TripIn</string>
+    <string name="action_lista">Lista</string>
+    <string name="calification">Califícanos</string>
+    <string name="cancel">Cancelar</string>
+    <string name="categories">Directorio</string>
+    <string name="comment">Comentario</string>
+    <string name="enterprise">Empresas</string>
+    <string name="message_load">Cargando Información, por favor espere.</string>
+    <string name="no_internet">No dispone Conexión a Intenet.</string>
+    <string name="save">Comentar</string>
+    <string name="stores">Mapa</string>
+    <string name="subcategories">Categorías</string>
+    <string name="tripit">Trip It</string>
+    <string name="visit_us">¡VISÍTANOS!</string>
+    <string name="find_us">¡ENCUÉNTRANOS!</string>
+    <string name="direction">Dirección</string>
+    <string name="contact">¡CONTÁCTANOS!</string>
+    <string name="follow_us">¡SÍGUENOS!</string>
+    <string name="gallerys">GALERÍA</string>
+    <string name="no_select">--Seleccione una ciudad--</string>
+    <string name="select_country">Ciudades:</string>
+    <string name="config">Configuración</string>
+    <string name="no_gps">Sus configuraciones de Localización están desactivadas, por favor activelas para poder tomar su ubicación</string>
+    <string name="Develop">Aplicación Desarrollada por SolutecSystem</string>
+    <string name="spanish">Español</string>
+    <string name="english">Inglés</string>
+    <string name="Idiom">--No Seleccionado--</string>
+    <string name="lic">Licencia Gratuita</string>
+    <string name="position">Su posición</string>
+    <string name="route">La Ruta No ṕuede ser trazada en este instante, verifique e intente nuevamente</string>
+    <string name="name">Nombre:</string>
+    <string name="direc">Dirección:</string>
+    <string name="visita_nuestra_web">Visita nuestra Web</string>
+</resources>
